@@ -1,5 +1,5 @@
 # Diablo2-Crafting-Mod-1.07-1.08
-This mod to your game should enable the crafting recipies that are in the 1.07 and 1.08 versions of Diablo 2 LOD. However, these recipies are extremely buggy in 1.07 and should be used at your own risk.
+This mod to your game should enable all the crafting recipies (which are normally disabled) in the 1.07 and 1.08 versions of Diablo 2 LOD. However, these recipies are extremely buggy in 1.07 and should be used at your own risk.
 
 
 
@@ -7,7 +7,7 @@ How to install:
 
 cubemain.txt is the text file that Diablo 2 uses to generate the parameters for crafting. I have modified the file to enable all recipies, and have also fixed specific recipies that were broken. "See my youtube serries for details" https://www.youtube.com/watch?v=hIcx_vuRo9E
 
-In order to apply the modified crafting table you must have a working version 1.07 or patch 1.08 Diablo 2 installation. In order to use this mod, do the following:
+In order to apply the modified crafting table you must have a working version 1.07 or patch 1.08 Diablo 2 (and expansion pack) installation. In order to use this mod, do the following:
 
 1.) Find your Diablo 2 installation and locate the folder where are the mpq files live (if you are using a version switcher find where your patch.mpq file for the respective patch). Create a set of nested folders named data -> global -> excel. This mimics the structure that cubemain.txt would be in if you opened Diablo's actuall patch file. Place my modified cubemain.txt file in there and make sure you do not change the name.
 
